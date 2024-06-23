@@ -1,6 +1,6 @@
 # Stock-Price-Prediction System using LSTM and Streamlit
 
-Welcome to the Stock Price Prediction System! This application leverages the power of machine learning, specifically Long Short-Term Memory (LSTM) neural networks, to predict the future prices of stocks. The app supports a wide range of both Indian and global stocks, making it a versatile tool for investors and analysts alike. With an intuitive interface built using Streamlit, users can easily select a stock, specify a date range, and get predictions along with insightful visualizations and performance metrics.
+Welcome to the Stock Price Prediction System , This application leverages the power of machine learning, specifically Long Short-Term Memory (LSTM) neural networks, to predict the future prices of stocks. The app supports a wide range of both Indian and global stocks, making it a versatile tool for investors and analysts alike. With an intuitive interface built using Streamlit, users can easily select a stock, specify a date range, and get predictions along with insightful visualizations and performance metrics.
 
 The core functionality of the app includes fetching historical stock data, preprocessing this data for model training, and training an LSTM model to make predictions. Users can visualize the predicted stock prices alongside the actual prices, providing a clear and interactive way to analyze the model's performance. Additionally, the app includes candlestick charts for detailed stock analysis and moving averages to help users identify trends and patterns in the stock prices.
 
